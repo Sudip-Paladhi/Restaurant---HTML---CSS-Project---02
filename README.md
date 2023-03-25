@@ -27,5 +27,4 @@
 ---
 
 ## How the website looks like
-
-![Restaurant Web Page]()
+![Restaurant Web Page](https://user-images.githubusercontent.com/99830636/227709151-33ff57b8-6f0d-48f6-920a-d11983b5ebc7.png)
