@@ -6,7 +6,7 @@
 
 ![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-No-red)
 [![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
-![Time](https://img.shields.io/badge/Time%20Taken-3hrs-green)
+![Time](https://img.shields.io/badge/Time%20Taken-1hrs-green)
 
 ## Tech Stack:
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Checkout live website [here]().
+### Checkout live website [here](https://sudip-paladhi.github.io/Restaurant---HTML---CSS-Project---02/).
 
 ---
 
@@ -28,4 +28,4 @@
 
 ## How the website looks like
 
-![Desktop](2.png)
+![Restaurant Web Page]()
